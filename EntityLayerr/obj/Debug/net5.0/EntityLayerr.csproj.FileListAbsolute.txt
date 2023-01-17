@@ -1,0 +1,15 @@
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\bin\Debug\net5.0\EntityLayerr.deps.json
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\bin\Debug\net5.0\EntityLayerr.dll
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\bin\Debug\net5.0\EntityLayerr.pdb
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\obj\Debug\net5.0\EntityLayerr.csproj.AssemblyReference.cache
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\obj\Debug\net5.0\EntityLayerr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\obj\Debug\net5.0\EntityLayerr.AssemblyInfoInputs.cache
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\obj\Debug\net5.0\EntityLayerr.AssemblyInfo.cs
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\obj\Debug\net5.0\EntityLayerr.csproj.CoreCompileInputs.cache
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\obj\Debug\net5.0\EntityLayerr.dll
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\obj\Debug\net5.0\refint\EntityLayerr.dll
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\obj\Debug\net5.0\EntityLayerr.pdb
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\obj\Debug\net5.0\ref\EntityLayerr.dll
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\bin\Debug\net5.0\EntityLayerr.runtimeconfig.json
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\bin\Debug\net5.0\EntityLayerr.runtimeconfig.dev.json
+C:\Users\lacro\source\repos\BlogWebApp\EntityLayerr\obj\Debug\net5.0\EntityLayerr.genruntimeconfig.cache
