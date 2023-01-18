@@ -13,12 +13,15 @@ namespace DataAcsessLayer.Concrete.Context
     {
        protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            options.UseSqlServer("server =DESKTOP-ESAVM42\\SQLEXPRESS; database=BlogWebApMM; integrated security=true;");
+            options.UseSqlServer("server =DESKTOP-ESAVM42\\SQLEXPRESS; database=BlogWebApp; integrated security=true;");
         }
       public  DbSet<Test> tests { get; set; }
       public  DbSet<Blog> blogs { get; set; }
       public  DbSet<Category> categories { get; set; }
       public  DbSet<Comment> comments { get; set; }
       public  DbSet<Contact> contacts { get; set; }
+
+
+
     }
 }

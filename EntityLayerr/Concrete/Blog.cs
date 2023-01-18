@@ -15,6 +15,10 @@ namespace EntityLayerr.Concrete
         public DateTime CreatedDate { get; set; }
         public int CategoryId { get; set; }
         public Category Category { get; set; }
+       
         public List<Comment> Comment { get; set; }
+
+    
     }
+
 }
